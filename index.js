@@ -13,6 +13,8 @@ app.post("/obrazac.pdf", (req, res) => {
     .fill({ pdfPath: templatePutanja, data: req.body })
     .then((data) => {
       res.send(data);
+    }).catch((error) => {
+      res.send(error);
     });
 });
 
