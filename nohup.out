@@ -1,0 +1,151 @@
+Server pokrenut na http://localhost:3000
+Server pokrenut na http://localhost:3000
+Server pokrenut na http://localhost:3000
+
+Unhandled rejection Error: Command failed: pdftk /mnt/FileSystem-Compute/pdf-filler/template/form.pdf fill_form /mnt/FileSystem-Compute/pdf-filler/node_modules/pdftk-fill-pdf/temp/282output.xfdf output /mnt/FileSystem-Compute/pdf-filler/node_modules/pdftk-fill-pdf/temp/657output.pdf need_appearances
+/bin/sh: 1: pdftk: not found
+
+    at ChildProcess.exithandler (child_process.js:294:12)
+    at ChildProcess.emit (events.js:198:13)
+    at maybeClose (internal/child_process.js:982:16)
+    at Socket.stream.socket.on (internal/child_process.js:389:11)
+    at Socket.emit (events.js:198:13)
+    at Pipe._handle.close (net.js:606:12)
+
+Unhandled rejection Error: Command failed: pdftk /mnt/FileSystem-Compute/pdf-filler/template/form.pdf fill_form /mnt/FileSystem-Compute/pdf-filler/node_modules/pdftk-fill-pdf/temp/53output.xfdf output /mnt/FileSystem-Compute/pdf-filler/node_modules/pdftk-fill-pdf/temp/722output.pdf need_appearances
+/bin/sh: 1: pdftk: not found
+
+    at ChildProcess.exithandler (child_process.js:294:12)
+    at ChildProcess.emit (events.js:198:13)
+    at maybeClose (internal/child_process.js:982:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:259:5)
+
+Unhandled rejection Error: Command failed: pdftk /mnt/FileSystem-Compute/pdf-filler/template/form.pdf fill_form /mnt/FileSystem-Compute/pdf-filler/node_modules/pdftk-fill-pdf/temp/259output.xfdf output /mnt/FileSystem-Compute/pdf-filler/node_modules/pdftk-fill-pdf/temp/642output.pdf need_appearances
+/bin/sh: 1: pdftk: not found
+
+    at ChildProcess.exithandler (child_process.js:294:12)
+    at ChildProcess.emit (events.js:198:13)
+    at maybeClose (internal/child_process.js:982:16)
+    at Socket.stream.socket.on (internal/child_process.js:389:11)
+    at Socket.emit (events.js:198:13)
+    at Pipe._handle.close (net.js:606:12)
+
+Unhandled rejection Error: Command failed: pdftk /mnt/FileSystem-Compute/pdf-filler/template/form.pdf fill_form /mnt/FileSystem-Compute/pdf-filler/node_modules/pdftk-fill-pdf/temp/771output.xfdf output /mnt/FileSystem-Compute/pdf-filler/node_modules/pdftk-fill-pdf/temp/136output.pdf need_appearances
+/bin/sh: 1: pdftk: not found
+
+    at ChildProcess.exithandler (child_process.js:294:12)
+    at ChildProcess.emit (events.js:198:13)
+    at maybeClose (internal/child_process.js:982:16)
+    at Socket.stream.socket.on (internal/child_process.js:389:11)
+    at Socket.emit (events.js:198:13)
+    at Pipe._handle.close (net.js:606:12)
+
+Unhandled rejection Error: Command failed: pdftk /mnt/FileSystem-Compute/pdf-filler/template/form.pdf fill_form /mnt/FileSystem-Compute/pdf-filler/node_modules/pdftk-fill-pdf/temp/50output.xfdf output /mnt/FileSystem-Compute/pdf-filler/node_modules/pdftk-fill-pdf/temp/653output.pdf need_appearances
+/bin/sh: 1: pdftk: not found
+
+    at ChildProcess.exithandler (child_process.js:294:12)
+    at ChildProcess.emit (events.js:198:13)
+    at maybeClose (internal/child_process.js:982:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:259:5)
+
+Unhandled rejection Error: Command failed: pdftk /mnt/FileSystem-Compute/pdf-filler/template/form.pdf fill_form /mnt/FileSystem-Compute/pdf-filler/node_modules/pdftk-fill-pdf/temp/588output.xfdf output /mnt/FileSystem-Compute/pdf-filler/node_modules/pdftk-fill-pdf/temp/764output.pdf need_appearances
+/bin/sh: 1: pdftk: not found
+
+    at ChildProcess.exithandler (child_process.js:294:12)
+    at ChildProcess.emit (events.js:198:13)
+    at maybeClose (internal/child_process.js:982:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:259:5)
+Server pokrenut na http://localhost:3000
+Server pokrenut na http://localhost:3000
+Server pokrenut na http://localhost:3000
+Server pokrenut na http://localhost:3000
+
+Unhandled rejection Error: Command failed: pdftk /mnt/FileSystem-Compute/pdf-filler/template/form.pdf fill_form /mnt/FileSystem-Compute/pdf-filler/node_modules/pdftk-fill-pdf/temp/859output.xfdf output /mnt/FileSystem-Compute/pdf-filler/node_modules/pdftk-fill-pdf/temp/505output.pdf need_appearances
+Error: Unable to find file.
+Error: Failed to open PDF file: 
+   /mnt/FileSystem-Compute/pdf-filler/template/form.pdf
+Errors encountered.  No output created.
+Done.  Input errors, so no output created.
+
+    at ChildProcess.exithandler (child_process.js:294:12)
+    at ChildProcess.emit (events.js:198:13)
+    at maybeClose (internal/child_process.js:982:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:259:5)
+
+Unhandled rejection Error: Command failed: pdftk /mnt/FileSystem-Compute/pdf-filler/template/form.pdf fill_form /mnt/FileSystem-Compute/pdf-filler/node_modules/pdftk-fill-pdf/temp/496output.xfdf output /mnt/FileSystem-Compute/pdf-filler/node_modules/pdftk-fill-pdf/temp/546output.pdf need_appearances
+Error: Unable to find file.
+Error: Failed to open PDF file: 
+   /mnt/FileSystem-Compute/pdf-filler/template/form.pdf
+Errors encountered.  No output created.
+Done.  Input errors, so no output created.
+
+    at ChildProcess.exithandler (child_process.js:294:12)
+    at ChildProcess.emit (events.js:198:13)
+    at maybeClose (internal/child_process.js:982:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:259:5)
+Server pokrenut na http://localhost:3000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Server pokrenut na http://localhost:3000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Server pokrenut na http://localhost:3000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
