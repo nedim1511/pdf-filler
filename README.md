@@ -7,4 +7,4 @@
 
 ## Šta je potrebno u okruženju?
 1) Potrebna je ažurna verzija Node-a
-2) Potreban je ```pdftk binary``` (sudo apt-get install pdftk)
+2) Potreban je ```pdftk binary``` [Pomoć?](https://linuxhint.com/install_pdftk_ubuntu/)
